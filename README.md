@@ -1,13 +1,7 @@
 
-## Available Scripts
+Para rodar o projeto:
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+1 - Clone o mesmo para a pasta de sua escolha em sua máquina.
+2 - Abra o terminal na pasta do projeto /ntt-app e rode os seguintes comandos:
+    2.1 - `npm i` para instalar as dependências;
+    2.2 - `npm start` para rodar a aplicação;
