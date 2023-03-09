@@ -1,0 +1,52 @@
+.movie {
+    width: 1200px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left {
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 700px;
+    height: 400px;
+}
+
+.right {
+    margin-top: 10px;
+    width: 300px;
+}
+
+.title {
+    text-align: left;
+    color: grey;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.description{
+    width: 600px;
+    text-align: left;
+    color: grey;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.actors {
+    width: 900px;
+    text-align: left;
+    color: grey;
+    font-size: 20px;
+   
+}
+
+.actors span{
+    font-weight: 700;
+}
+
+
+img {
+    border-radius: 10px;
+}
+
