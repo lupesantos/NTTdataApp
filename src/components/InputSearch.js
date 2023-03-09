@@ -2,7 +2,7 @@ import { useState } from "react"
 import { useDispatch } from "react-redux";
 import { search} from '../features/movie';
 import axios from 'axios';
-import '../components/InputSearch.css';
+import '../css/InputSearch.css';
 
 export default function InputSearch (){
 
